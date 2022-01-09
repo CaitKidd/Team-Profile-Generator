@@ -1,0 +1,29 @@
+{
+    "name": "generator",
+    "version": "1.0.0",
+    "description": "Team Profile Generator",
+    "main": "app.js",
+    "directories": {
+        "lib": "lib",
+        "test": "test"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CaitKidd/Team-Profile-Generator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CaitKidd/Team-Profile-Generator.git/issues"
+    },
+    "homepage": "https://github.com/CaitKidd/Team-Profile-Generator.git#readme",
+    "dependencies": {
+        "inquirer": "^7.3.3"
+    },
+    "devDependencies": {
+        "jest": "^27.4.7"
+    }
+}
