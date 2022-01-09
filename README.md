@@ -70,9 +70,9 @@ THEN I exit the application, and the HTML is generated
 ## Usage
 💻   
   
-Jest
-Inquire
-Node
+Jest<br>
+Inquire<br>
+Node<br>
 
 ## Contributing
 :octocat: [Caitlyn Kidd](https://github.com/caitkidd)
